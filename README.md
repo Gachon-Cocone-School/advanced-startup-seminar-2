@@ -29,3 +29,8 @@ GCS 출신으로서 AI 기반의 서비스 설계와 개발 능력을 증명할 
 
 ## 강의 계획서
 - [창업심화세미나 강의계획서(구글독스)](https://docs.google.com/document/d/1T5-kcMnMo0sMFCd-N2SWUQsy35fKKEUyVSRG4lwvB00/edit?tab=t.0)
+
+---
+
+## 강의 자료
+- [0.오리엔테이션(구글슬라이드)](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
