@@ -8,6 +8,9 @@
 - **이메일**: namjookim@gachon.ac.kr
 - **사무실**: N03호
 
+## 면담 신청
+- [구글캘린더 예약 페이지(학교이메일 필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
+
 ## 강의 정보
 - **시간**: 화요일 15:00 ~ 18:00
 - **장소**: AI관 6층 GCS 세미나실
@@ -27,10 +30,11 @@ GCS 출신으로서 AI 기반의 서비스 설계와 개발 능력을 증명할 
 - **AI 통합 능력**: LLM API와 n8n 도구를 활용한 AI 기능 통합
 - **자동화 도구 활용**: 반복 작업 효율화 및 AI 연동 프로세스 자동화
 
-## 강의 계획서
-- [창업심화세미나 강의계획서(구글독스)](https://docs.google.com/document/d/1T5-kcMnMo0sMFCd-N2SWUQsy35fKKEUyVSRG4lwvB00/edit?tab=t.0)
+## 강의 계획서(구글독스-학교이메일 필요)
+- [2025-01-창업심화세미나 강의계획서](https://docs.google.com/document/d/1T5-kcMnMo0sMFCd-N2SWUQsy35fKKEUyVSRG4lwvB00/edit?tab=t.0)
 
 ---
 
-## 강의 자료
-- [0.오리엔테이션(구글슬라이드)](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
+## 강의 자료(구글슬라이드-학교이메일 필요)
+- [0.오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
+- TBD
