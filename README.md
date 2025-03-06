@@ -1,4 +1,4 @@
-<img alt="image" src="https://github.com/user-attachments/assets/5f77e40c-f894-42d8-a8c3-cfe9f1daf4b3">
+![Image](https://github.com/user-attachments/assets/8be1ef8a-87d3-46d6-b914-af968cc0fc2a)
 
 # 창업심화세미나2 
 
