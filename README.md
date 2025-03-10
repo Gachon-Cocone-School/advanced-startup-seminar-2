@@ -72,5 +72,5 @@
 ---
 
 ## 강의 슬라이드(학교 이메일 로그인 필요)
-- [0. 오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
-- [1. Flutterflow 초급](https://docs.google.com/presentation/d/1isgp91XRGvmEPO_ArzdZYLW5UgqFIY9WSgMQQHu1w98/edit?usp=sharing)
+- 2025.03.04 - [0. 오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
+- 2025.03.11 - [1. Flutterflow 초급](https://docs.google.com/presentation/d/1isgp91XRGvmEPO_ArzdZYLW5UgqFIY9WSgMQQHu1w98/edit?usp=sharing)
