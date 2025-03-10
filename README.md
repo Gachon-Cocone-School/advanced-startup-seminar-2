@@ -13,7 +13,7 @@
 ---
 
 ## 면담 신청
-- [구글캘린더 예약 페이지(학교이메일 필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
+- [구글캘린더 예약 페이지(학교 이메일 로그인 필요)](https://calendar.app.google/Z4pFaDujwLURBrmt8)
 
 ---
 
@@ -39,8 +39,8 @@
 
 ---
 
-## 강의 계획서(구글독스-학교이메일 필요)
-- [2025-01-창업심화세미나 강의계획서](https://docs.google.com/document/d/1T5-kcMnMo0sMFCd-N2SWUQsy35fKKEUyVSRG4lwvB00/edit?tab=t.0)
+## 강의 계획서(학교 이메일 로그인 필요)
+- [2025-01-창업심화세미나2 강의계획서](https://docs.google.com/document/d/1T5-kcMnMo0sMFCd-N2SWUQsy35fKKEUyVSRG4lwvB00/edit?tab=t.0)
 
 ---
 
@@ -71,6 +71,6 @@
 
 ---
 
-## 강의 자료(구글슬라이드-학교이메일 필요)
-- [0.오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
-- TBD
+## 강의 슬라이드(학교 이메일 로그인 필요)
+- [0. 오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
+- [1. Flutterflow 초급](https://docs.google.com/presentation/d/1isgp91XRGvmEPO_ArzdZYLW5UgqFIY9WSgMQQHu1w98/edit?usp=sharing)
