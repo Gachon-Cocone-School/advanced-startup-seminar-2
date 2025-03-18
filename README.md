@@ -75,3 +75,10 @@
 - 2025.03.04 - [0. 오리엔테이션](https://docs.google.com/presentation/d/1YOAbb6r8ivZbMiHRf5PQ7KYxJXHprGH--e038toXZlQ/edit#slide=id.g3329ef13f6d_0_158)
 - 2025.03.11 - [1. Flutterflow 초급](https://docs.google.com/presentation/d/1isgp91XRGvmEPO_ArzdZYLW5UgqFIY9WSgMQQHu1w98/edit?usp=sharing)
 - 2025.03.18 - [2. Agile 방법론](https://docs.google.com/presentation/d/1U56weU9cVU-7PsaZPHjWIEqsvEBUOlw61gPLp_LnaHs/edit#slide=id.g34115aab883_1_215)
+  - [2. Agile 방법론 - 퀴즈 정답](https://drive.google.com/file/d/1L9duAsm7kyvcf2TlQs4oJsY5bjX3rvSx/view?usp=drive_link)
+  - [2. Agile 방법론 - 수업 내 데모 프로젝트](https://github.com/namjoo-kim-gachon/tut01)
+
+
+---
+
+문의사항이 있으신 분은 namjookim@gachon.ac.kr 로 연락주세요.
