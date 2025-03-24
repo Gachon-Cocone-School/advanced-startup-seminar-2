@@ -77,6 +77,7 @@
 - 2025.03.18 - [2. Agile 방법론](https://docs.google.com/presentation/d/1U56weU9cVU-7PsaZPHjWIEqsvEBUOlw61gPLp_LnaHs/edit#slide=id.g34115aab883_1_215)
   - [수업 내 퀴즈 정답](https://drive.google.com/file/d/1L9duAsm7kyvcf2TlQs4oJsY5bjX3rvSx/view?usp=drive_link)
   - [수업 내 데모 프로젝트](https://github.com/namjoo-kim-gachon/tut01)
+- 2025.03.25 - [3. Flutterflow 중급](https://docs.google.com/presentation/d/19g0JXfu4oOntg_qdfGJZhJHExK5B60QEVy0w2B9I88M/edit#slide=id.g34115aab883_0_0)
 
 
 ---
