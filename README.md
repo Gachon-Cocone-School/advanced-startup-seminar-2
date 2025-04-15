@@ -80,6 +80,29 @@
 - 2025.03.25 - [3. Flutterflow 중급](https://docs.google.com/presentation/d/19g0JXfu4oOntg_qdfGJZhJHExK5B60QEVy0w2B9I88M/edit#slide=id.g34115aab883_0_0)
 - 2025.04.01 - [4. API 기초](https://docs.google.com/presentation/d/1WxIa__jld-KCwWvNCh6cQdVh4KDQQTjjANe_HSzKs6w/edit?slide=id.g30a21c085a4_0_5#slide=id.g30a21c085a4_0_5)
 - 2025.04.08 - [5. Flutterflow 고급](https://docs.google.com/presentation/d/1SUI_Y-GzNJFBucgNMSI3ZvZ6_YU6ZiZYqcnsP4tC8qw/edit?slide=id.g34115aab883_0_0#slide=id.g34115aab883_0_0)
+- 2025.04.15 - [6. Clone Project 발표](https://docs.google.com/presentation/d/1jwzyujY-vgMNfD7Z5nlWVLF5BwNdYEW4sTFqfbuGGpY/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
+  - 발표 슬라이드
+    - [리니스트](https://www.canva.com/design/DAGkqSy0hlo/srisp2IcX9wSZQI1sXXmjQ/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [가나다](https://www.canva.com/design/DAGkm6J9vDQ/TlMv2_HPW2mB0C8oTUeGNw/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [변교리](https://www.canva.com/design/DAGknlGVUZs/50s7D2Fl7xoO3lKkoSsbdA/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [문진영](https://docs.google.com/presentation/d/1I6li5pNuRhiUk2VE--jOSHmwTbJlqZWg34AaRX9KVt8/edit?usp=sharing)
+    - [김시온](https://docs.google.com/presentation/d/1kO_GUc3KxoM8eExeS9n20q_mPa2_db-RFRIEJDA0moo/edit?usp=sharing)
+    - [이유림](https://files.slack.com/files-pri/T05PSHR1TB4-F08NSSGK5EC/download/clone_project__________.pdf?origin_team=T05PSHR1TB4)
+    - [안재현](https://docs.google.com/presentation/d/1gfBMjR9EbxKI-3PRgUy6FGslFk9vDVxiKWRe3rNhCsQ/edit?slide=id.g34eb8740bf4_0_10#slide=id.g34eb8740bf4_0_10)
+    - [소정혁](https://www.canva.com/design/DAGko4A-Gcw/krc154lGs5PMGnXpEStldg/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [안지원](https://1000school.slack.com/files/U07KH28DD5Z/F08MX5PTZ1C/_________2_____________.pptx)
+    - [손채연](https://www.miricanvas.com/v/14cga08)
+  - Flutterflow 프로젝트 링크
+    - [리니스트](https://app.flutterflow.io/project/clip-clone-jk9jjp)
+    - [가나다](https://app.flutterflow.io/run/CrHGiH1BH8i2zTCOs2DN)
+    - [변교리]()
+    - [문진영](https://app.flutterflow.io/project/clone-project-ci1g8r?tab=uiBuilder&page=TimePage)
+    - [김시온](https://app.flutterflow.io/project/copy-trip-soda-hhr8v4)
+    - [이유림](https://app.flutterflow.io/project/clone-project-211aqc)
+    - [안재현]()
+    - [소정혁](https://app.flutterflow.io/project/co-cone-3bt1pl)
+    - [안지원](https://app.flutterflow.io/project/meet-ai-7jgvmu)
+    - [손채연](https://app.flutterflow.io/project/pawpick-i7ust8)
 
 ---
 
