@@ -95,11 +95,11 @@
   - Flutterflow 프로젝트 링크
     - [리니스트](https://app.flutterflow.io/project/clip-clone-jk9jjp),
     [가나다](https://app.flutterflow.io/run/CrHGiH1BH8i2zTCOs2DN),
-    [변교리](),
+    [변교리](https://app.flutterflow.io/project/chat-pvcspu),
     [문진영](https://app.flutterflow.io/project/clone-project-ci1g8r?tab=uiBuilder&page=TimePage),
     [김시온](https://app.flutterflow.io/project/copy-trip-soda-hhr8v4),
     [이유림](https://app.flutterflow.io/project/clone-project-211aqc),
-    [안재현](),
+    [안재현](https://app.flutterflow.io/project/moke-prompt-r9vbbq),
     [소정혁](https://app.flutterflow.io/project/co-cone-3bt1pl),
     [안지원](https://app.flutterflow.io/project/meet-ai-7jgvmu),
     [손채연](https://app.flutterflow.io/project/pawpick-i7ust8)
