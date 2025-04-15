@@ -94,7 +94,7 @@
     [손채연](https://www.miricanvas.com/v/14cga08)
   - Flutterflow 프로젝트 링크
     - [리니스트](https://app.flutterflow.io/project/clip-clone-jk9jjp),
-    [가나다](https://app.flutterflow.io/run/CrHGiH1BH8i2zTCOs2DN),
+    [가나다](https://app.flutterflow.io/project/threads-clone-cording-f1yx3o),
     [변교리](https://app.flutterflow.io/project/chat-pvcspu),
     [문진영](https://app.flutterflow.io/project/clone-project-ci1g8r?tab=uiBuilder&page=TimePage),
     [김시온](https://app.flutterflow.io/project/copy-trip-soda-hhr8v4),
