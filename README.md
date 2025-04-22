@@ -105,6 +105,7 @@
     [손채연](https://app.flutterflow.io/project/pawpick-i7ust8)
   - Peer 평가 결과
     - <img width="500" alt="Image" src="https://github.com/user-attachments/assets/97dd8f6d-eda7-4c71-adad-22dbd29d6fcc" />
+- 2025.04.22 - [7. LLM 활용 초급](https://docs.google.com/presentation/d/1xRVB5EDaes0BuFmb4AqRpV_-vqSnyd9ewjbYHg8G4Yc/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
 
 ---
 
