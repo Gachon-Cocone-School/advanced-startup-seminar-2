@@ -107,6 +107,7 @@
     - <img width="500" alt="Image" src="https://github.com/user-attachments/assets/97dd8f6d-eda7-4c71-adad-22dbd29d6fcc" />
 - 2025.04.22 - [7. LLM 활용 초급](https://docs.google.com/presentation/d/1xRVB5EDaes0BuFmb4AqRpV_-vqSnyd9ewjbYHg8G4Yc/edit?slide=id.g34ba2e15ec2_0_0#slide=id.g34ba2e15ec2_0_0)
 - 2025.04.28 - [8. LLM 활용 중급](https://docs.google.com/presentation/d/1_B8ixmtt5dju0NrHc6eGhfvknEeo2v6PO5sKBNV9r-Y/edit?slide=id.g34db5ab2826_0_0#slide=id.g34db5ab2826_0_0)
+- 2025.05.13 - [9. LLM 활용 고급](https://docs.google.com/presentation/d/1-KErfHht8UqbMcOvURflOKbEjXS-VxoAICdAIRpSi3Y/edit?slide=id.g2fa210ca67d_0_1#slide=id.g2fa210ca67d_0_1)
 
 ---
 
