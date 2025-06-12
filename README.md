@@ -109,6 +109,8 @@
 - 2025.04.28 - [8. LLM 활용 중급](https://docs.google.com/presentation/d/1_B8ixmtt5dju0NrHc6eGhfvknEeo2v6PO5sKBNV9r-Y/edit?slide=id.g34db5ab2826_0_0#slide=id.g34db5ab2826_0_0)
 - 2025.05.13 - [9. LLM 활용 고급](https://docs.google.com/presentation/d/1-KErfHht8UqbMcOvURflOKbEjXS-VxoAICdAIRpSi3Y/edit?slide=id.g2fa210ca67d_0_1#slide=id.g2fa210ca67d_0_1)
 - 2025.06.10 = [15. 기말 프로젝트 발표](https://docs.google.com/presentation/d/1PAPbwv9Izzmrp_PgkoTZ8HxiUHU6zu1Deglrgmc4MA4/edit?slide=id.g34ba2e15ec2_1_17#slide=id.g34ba2e15ec2_1_17)
+  - 기말 프로젝트 Peer 평가 결과
+    - <img width="800" alt="Image" src="https://github.com/user-attachments/assets/2133da08-07a9-4f48-b1fa-3aebaae33455" />
 
 ---
 
